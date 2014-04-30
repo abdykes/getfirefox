@@ -19,6 +19,7 @@
 # important things like downloading updates, new software, or playing games.
 #
 # This script will download the FireFox 29 installer to your machine saving you from needing to fight IE to get it.
+#### The file will be saved in whatever directory you run the script in ####
 
 #server information.  Tried to use releases.mozilla.org but that didn't work.
 $remotePath = "/pub/mozilla.org/firefox/releases/29.0/win32/en-US/Firefox%20Setup%2029.0.exe"
